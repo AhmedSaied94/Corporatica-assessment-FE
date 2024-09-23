@@ -167,7 +167,7 @@ const ImagePage = () => {
       {/* Images Grid */}
       <div className="flex flex-col md:flex-row gap-6">
         {/* Images List */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 col-span-3 md:col-span-2">
+        <div className={`grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 col-span-3 ${!selectedImage ? "w-full" : "w-auto"}`}>
           {images.map((img) => (
             <motion.div
               key={img.id}
@@ -189,7 +189,7 @@ const ImagePage = () => {
         </div>
 
         {/* Selected Image Preview & Controls */}
-        <div className="col-span-3 md:col-span-1">
+        <div className={`col-span-1 ${selectedImage ? "block" : "hidden"}`}>
           {selectedImage && (
                 <div className="text-center">
                     {/* Tabs for switching between preview and histogram */}

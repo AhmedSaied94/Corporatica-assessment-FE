@@ -245,7 +245,7 @@ const TabularDataPage = () => {
 
                         </div>
                         {filters.rows.map((filter, index) => (
-                            <div key={index} className="flex mb-2">
+                            <div key={index} className="flex mb-2 w-full justify-center items-center">
                                 <select
                                     className="border p-2"
                                     value={filter.header_id || ""}
@@ -274,6 +274,12 @@ const TabularDataPage = () => {
                                     value={filter.row_value}
                                     onChange={(e) => handleFilterChange(index, "row_value", e.target.value)}
                                 />
+                                <PrimaryButton
+                                    className="ml-4"
+                                    onClick={() => setFilters({ ...filters, rows: filters.rows.filter((_, i) => i !== index) })}
+                                >
+                                    Remove
+                                </PrimaryButton>
                             </div>
                         ))}
                         <PrimaryButton onClick={addFilter}>Add Filter</PrimaryButton>

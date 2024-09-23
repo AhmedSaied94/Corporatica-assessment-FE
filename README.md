@@ -109,16 +109,18 @@ In the project directory, you can run:
 ## Screenshots
 
     ### Tabular Data
-    ![Tabular Data Upload](./screenshots/tabular_data_upload.png)
     ![Tabular Data Files List](./screenshots/tabular_data_files_list.png)
     ![Tabular Data Table](./screenshots/tabular_data_table.png)
+    ![Tabular Data Table2](./screenshots/tabular_data_table2.png)
+    ![Tabular Data Table3](./screenshots/tabular_data_table3.png)
     ![Tabular Data Chart](./screenshots/tabular_data_chart.png)
+    ![Tabular Data Chart2](./screenshots/tabular_data_chart2.png)
+    ![Tabular Data Chart3](./screenshots/tabular_data_chart3.png)
 
     ### Image Gallery
-    ![Image Gallery Upload](./screenshots/image_gallery_upload.png)
     ![Image Gallery Gallery](./screenshots/image_gallery_gallery.png)
     ![Image Gallery Image](./screenshots/image_gallery_image.png)
-    ![Image Gallery Histogram](./screenshots/image_gallery_histogram.png)
+    ![Image Gallery Image2](./screenshots/image_gallery_image2.png)
 
     ### Text Data
     ![Text Data Analyze1](./screenshots/text_data_analyze.png)
