@@ -144,8 +144,15 @@ const TabularDataPage = () => {
                     whileHover={{ scale: 1.05 }}
                     className="bg-blue-500 text-white py-2 px-4 rounded shadow-lg cursor-pointer"
                 >
-                    <input type="file" onChange={handleUpload} className="hidden" />
-                    <label>Upload Tabular File</label>
+                    <label htmlFor="file-upload" className="cursor-pointer">
+                        Upload Tabular File
+                    </label>
+                    <input
+                        type="file"
+                        id="file-upload"
+                        onChange={handleUpload}
+                        className="hidden"
+                    />
                 </motion.div>
             </div>
 

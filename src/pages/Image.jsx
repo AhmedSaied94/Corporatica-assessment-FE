@@ -150,18 +150,20 @@ const ImagePage = () => {
 
       {/* Upload Images */}
       <div className="flex justify-center mb-6">
-        <motion.div
-          whileHover={{ scale: 1.05 }}
-          className="bg-blue-500 text-white py-2 px-4 rounded shadow-lg cursor-pointer"
-        >
-          <input
-            type="file"
-            multiple
-            onChange={handleUpload}
-            className="hidden"
-          />
-          <label>Upload Images</label>
-        </motion.div>
+          <motion.div
+              whileHover={{ scale: 1.05 }}
+              className="bg-blue-500 text-white py-2 px-4 rounded shadow-lg cursor-pointer"
+          >
+              <input
+                  type="file"
+                  id="image-upload" // Add an id here
+                  multiple
+                  onChange={handleUpload}
+                  className="hidden"
+              />
+              <label htmlFor="image-upload" className="cursor-pointer">
+              </label>
+          </motion.div>
       </div>
 
       {/* Images Grid */}
