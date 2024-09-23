@@ -106,36 +106,37 @@ In the project directory, you can run:
         - View the word cloud with the most frequent words in the text data.
 
 
+## Screenshots
 
-    ### Tabular Data
-    ![Tabular Data Files List](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_files_list.png?raw=true)
-    ![Tabular Data Table](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table.png?raw=true)
-    ![Tabular Data Table2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table2.png?raw=true)
-    ![Tabular Data Table3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table3.png?raw=true)
-    ![Tabular Data Chart](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart.png?raw=true)
-    ![Tabular Data Chart2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart2.png?raw=true)
-    ![Tabular Data Chart3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart3.png?raw=true)
+### Tabular Data
+![Tabular Data Files List](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_files_list.png?raw=true)
+![Tabular Data Table](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table.png?raw=true)
+![Tabular Data Table2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table2.png?raw=true)
+![Tabular Data Table3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_table3.png?raw=true)
+![Tabular Data Chart](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart.png?raw=true)
+![Tabular Data Chart2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart2.png?raw=true)
+![Tabular Data Chart3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_chart3.png?raw=true)
 
-    ### Image Gallery
-    ![Image Gallery Gallery](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_gallery.png?raw=true)
-    ![Image Gallery Image](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_image.png?raw=true)
-    ![Image Gallery Image2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_image2.png?raw=true)
+### Image Gallery
+![Image Gallery Gallery](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_gallery.png?raw=true)
+![Image Gallery Image](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_image.png?raw=true)
+![Image Gallery Image2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/image_gallery_image2.png?raw=true)
 
-    ### Text Data
-    ![Text Data Analyze1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze.png?raw=true)
-    ![Text Data Analyze2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze2.png?raw=true)
-    ![Text Data Analyze3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze3.png?raw=true)
-    ![Text Data Categorize1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize1.png?raw=true)
-    ![Text Data Categorize2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize2.png?raw=true)
-    ![Text Data Categorize2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize3.png?raw=true)
-    ![Text Data Similarity1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_similarity.png?raw=true)
-    ![Text Data Similarity2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_similarity2.png?raw=true)
-    ![Text Data Search1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search.png?raw=true)
-    ![Text Data Search2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search2.png?raw=true)
-    ![Text Data Search3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search3.png?raw=true)
-    ![Text Data T-SNE](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_tsne.png?raw=true)
-    ![Text Data T-SNE2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_tsne2.png?raw=true)
-    ![Text Data Word Cloud](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_word_cloud.png?raw=true)
+### Text Data
+![Text Data Analyze1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze.png?raw=true)
+![Text Data Analyze2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze2.png?raw=true)
+![Text Data Analyze3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_analyze3.png?raw=true)
+![Text Data Categorize1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize1.png?raw=true)
+![Text Data Categorize2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize2.png?raw=true)
+![Text Data Categorize2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_categorize3.png?raw=true)
+![Text Data Similarity1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_similarity.png?raw=true)
+![Text Data Similarity2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_similarity2.png?raw=true)
+![Text Data Search1](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search.png?raw=true)
+![Text Data Search2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search2.png?raw=true)
+![Text Data Search3](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_search3.png?raw=true)
+![Text Data T-SNE](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_tsne.png?raw=true)
+![Text Data T-SNE2](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_tsne2.png?raw=true)
+![Text Data Word Cloud](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/text_data_word_cloud.png?raw=true)
 
 ## Author
 
