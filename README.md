@@ -109,32 +109,32 @@ In the project directory, you can run:
 ## Screenshots
 
     ### Tabular Data
-    ![Tabular Data Upload](screenshots/tabular_data_upload.png)
-    ![Tabular Data Files List](screenshots/tabular_data_files_list.png)
-    ![Tabular Data Table](screenshots/tabular_data_table.png)
-    ![Tabular Data Chart](screenshots/tabular_data_chart.png)
+    ![Tabular Data Upload](./screenshots/tabular_data_upload.png)
+    ![Tabular Data Files List](./screenshots/tabular_data_files_list.png)
+    ![Tabular Data Table](./screenshots/tabular_data_table.png)
+    ![Tabular Data Chart](./screenshots/tabular_data_chart.png)
 
     ### Image Gallery
-    ![Image Gallery Upload](screenshots/image_gallery_upload.png)
-    ![Image Gallery Gallery](screenshots/image_gallery_gallery.png)
-    ![Image Gallery Image](screenshots/image_gallery_image.png)
-    ![Image Gallery Histogram](screenshots/image_gallery_histogram.png)
+    ![Image Gallery Upload](./screenshots/image_gallery_upload.png)
+    ![Image Gallery Gallery](./screenshots/image_gallery_gallery.png)
+    ![Image Gallery Image](./screenshots/image_gallery_image.png)
+    ![Image Gallery Histogram](./screenshots/image_gallery_histogram.png)
 
     ### Text Data
-    ![Text Data Analyze1](screenshots/text_data_analyze.png)
-    ![Text Data Analyze2](screenshots/text_data_analyze2.png)
-    ![Text Data Analyze3](screenshots/text_data_analyze3.png)
-    ![Text Data Categorize1](screenshots/text_data_categorize1.png)
-    ![Text Data Categorize2](screenshots/text_data_categorize2.png)
-    ![Text Data Categorize2](screenshots/text_data_categorize3.png)
-    ![Text Data Similarity1](screenshots/text_data_similarity.png)
-    ![Text Data Similarity2](screenshots/text_data_similarity2.png)
-    ![Text Data Search1](screenshots/text_data_search.png)
-    ![Text Data Search2](screenshots/text_data_search2.png)
-    ![Text Data Search3](screenshots/text_data_search3.png)
-    ![Text Data T-SNE](screenshots/text_data_tsne.png)
-    ![Text Data T-SNE2](screenshots/text_data_tsne2.png)
-    ![Text Data Word Cloud](screenshots/text_data_word_cloud.png)
+    ![Text Data Analyze1](./screenshots/text_data_analyze.png)
+    ![Text Data Analyze2](./screenshots/text_data_analyze2.png)
+    ![Text Data Analyze3](./screenshots/text_data_analyze3.png)
+    ![Text Data Categorize1](./screenshots/text_data_categorize1.png)
+    ![Text Data Categorize2](./screenshots/text_data_categorize2.png)
+    ![Text Data Categorize2](./screenshots/text_data_categorize3.png)
+    ![Text Data Similarity1](./screenshots/text_data_similarity.png)
+    ![Text Data Similarity2](./screenshots/text_data_similarity2.png)
+    ![Text Data Search1](./screenshots/text_data_search.png)
+    ![Text Data Search2](./screenshots/text_data_search2.png)
+    ![Text Data Search3](./screenshots/text_data_search3.png)
+    ![Text Data T-SNE](./screenshots/text_data_tsne.png)
+    ![Text Data T-SNE2](./screenshots/text_data_tsne2.png)
+    ![Text Data Word Cloud](./screenshots/text_data_word_cloud.png)
 
 ## Author
 
