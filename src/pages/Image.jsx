@@ -162,6 +162,7 @@ const ImagePage = () => {
                   className="hidden"
               />
               <label htmlFor="image-upload" className="cursor-pointer">
+                  Upload Images
               </label>
           </motion.div>
       </div>
