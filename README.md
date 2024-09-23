@@ -106,7 +106,6 @@ In the project directory, you can run:
         - View the word cloud with the most frequent words in the text data.
 
 
-## Screenshots
 
     ### Tabular Data
     ![Tabular Data Files List](https://github.com/AhmedSaied94/Corporatica-assessment-FE/blob/master/screenshots/tabular_data_files_list.png?raw=true)
