@@ -121,14 +121,19 @@ In the project directory, you can run:
     ![Image Gallery Histogram](screenshots/image_gallery_histogram.png)
 
     ### Text Data
-    ![Text Data Analyze](screenshots/text_data_analyze.png)
+    ![Text Data Analyze1](screenshots/text_data_analyze.png)
     ![Text Data Analyze2](screenshots/text_data_analyze2.png)
-    ![Text Data Categorize](screenshots/text_data_categorize.png)
+    ![Text Data Analyze3](screenshots/text_data_analyze3.png)
+    ![Text Data Categorize1](screenshots/text_data_categorize1.png)
+    ![Text Data Categorize2](screenshots/text_data_categorize2.png)
+    ![Text Data Categorize2](screenshots/text_data_categorize3.png)
     ![Text Data Similarity1](screenshots/text_data_similarity.png)
     ![Text Data Similarity2](screenshots/text_data_similarity2.png)
     ![Text Data Search1](screenshots/text_data_search.png)
     ![Text Data Search2](screenshots/text_data_search2.png)
+    ![Text Data Search3](screenshots/text_data_search3.png)
     ![Text Data T-SNE](screenshots/text_data_tsne.png)
+    ![Text Data T-SNE2](screenshots/text_data_tsne2.png)
     ![Text Data Word Cloud](screenshots/text_data_word_cloud.png)
 
 ## Author

@@ -326,13 +326,25 @@ const TextDataPage = () => {
           {/* Tabs for each category */}
           <div className="flex justify-center gap-4 mb-4 w-full flex-wrap">
             {Object.keys(categories).map((category) => (
+              category === activeCategoryTab
+                ? (
+              <PrimaryButton
+                key={category}
+                onClick={() => handleCategoryTabChange(category)}
+                className={"flex-grow"}
+              >
+                {category}
+              </PrimaryButton>
+                  )
+                : (
               <SecondaryButton
                 key={category}
                 onClick={() => handleCategoryTabChange(category)}
-                className={`flex-grow ${activeCategoryTab === category ? "bg-blue-500 text-white" : ""}`}
+                className={"flex-grow"}
               >
                 {category}
               </SecondaryButton>
+                  )
             ))}
           </div>
 
