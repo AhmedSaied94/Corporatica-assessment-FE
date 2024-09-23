@@ -133,10 +133,8 @@ In the project directory, you can run:
 
 ## Author
 
-- [Ahmed Saied](
-    email: ahmed.saeed311294@gmail.com
-    phone: +201158626091
-    linkedin: [Ahmed Saied](https://www.linkedin.com/in/ahmedsaied94/)
-    github: [AhmedSaied94](https://github.com/AhmedSaied94)
-    portfolio: [Ahmed Saied](https://ahmedsaied.info/)
-)
+- [Ahmed Saied](https://ahmedsaied.info/)
+- [Linkedin](https://www.linkedin.com/in/ahmedsaied94/)
+- [email](ahmed.saeed311294@gmail.com)
+- [phone](+201158626091)
+- [github](https://github.com/AhmedSaied94)
