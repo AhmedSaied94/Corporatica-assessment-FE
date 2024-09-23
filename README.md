@@ -136,5 +136,5 @@ In the project directory, you can run:
 - [Ahmed Saied](https://ahmedsaied.info/)
 - [Linkedin](https://www.linkedin.com/in/ahmedsaied94/)
 - [email](ahmed.saeed311294@gmail.com)
-- [phone](+201158626091)
+- [phone](https://wa.link/u55712)
 - [github](https://github.com/AhmedSaied94)
